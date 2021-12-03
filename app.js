@@ -6,6 +6,7 @@ const storage = new Storage();
 
 //init weather object
 const weather = new Weather('Karachi');
+console.log("hello");
 
 //init UI object 
 const ui = new UI();
